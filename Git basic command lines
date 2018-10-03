@@ -1,0 +1,7 @@
+Git clone htmlxxx -- copy github repository into your computer
+Git status -- check if your eddited file on your computer added into Git Hub repository or not
+Git add : -A (add all updated files); file names -- add file to your repository
+Git commit -m "explanation what you did"
+Git push -- push your computer stuff into git hub
+
+Git pull -- pull the update from git hub into your computer
